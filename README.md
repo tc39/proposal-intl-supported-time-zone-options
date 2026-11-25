@@ -6,6 +6,10 @@ This proposal refines the default output of `Intl.supportedValuesOf("timeZone")`
 - Champion: Shane F. Carr (@sffc)
 - Related ECMA-402 Issues: [#1103](https://github.com/tc39/ecma402/issues/1103), [#778](https://github.com/tc39/ecma402/issues/778), [#1052](https://github.com/tc39/ecma402/issues/1052)
 
+Presentations:
+
+- 117th TC39 (November 2026): Stage 0 → 1 - [Slides](https://tc39.es/proposal-intl-supported-time-zone-options/slides/stage_1_2026-11.html)
+
 ## Background
 
 ECMA-402 provides two APIs that enumerate supported time zone identifiers:
